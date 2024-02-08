@@ -1,4 +1,4 @@
-﻿# Stone-Paper_scissors-Game
+﻿# Stone-Paper-Scissors-Game
 #### This is a simple Stone Paper Scissors game implemented in Python, where you can play against a bot named Neo. The game runs in the command line interface (CLI), providing a simple and enjoyable gaming experience.
 
 ## How to Run
